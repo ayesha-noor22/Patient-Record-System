@@ -45,7 +45,11 @@ A console-based Patient Record System written in C++ as a Programming Fundamenta
 - Data is not saved after the program closes.
 
   Author
+  
 Ayesha Noor
+
 BS Software Engineering (1st Semester)
+
 Lahore College for Women University
+
 Submitted to: Miss Ayesha Rafiq
