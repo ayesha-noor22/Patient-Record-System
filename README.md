@@ -1,8 +1,8 @@
-Patient Record System
+# Patient Record System
 
 A console-based Patient Record System written in C++ as a Programming Fundamentals project.
 
- Features
+## Features
 - Add a new patient (name, age, disease, doctor)
 - Show all patient records
 - Search a patient by name
@@ -10,26 +10,26 @@ A console-based Patient Record System written in C++ as a Programming Fundamenta
 - Delete a patient record
 - Input validation (no crash on wrong input)
 
- Concepts Used
+## Concepts Used
 - Arrays
 - Functions
 - Loops (`while`, `for`)
 - Conditions (`if`, `else if`)
 - Input validation
 
- How to Run
+## How to Run
 1. Install a C++ compiler (e.g. g++ or Code::Blocks / Dev-C++).
 2. Compile the program:
-   ```
+```
    g++ patient_record_system.cpp -o patient_record_system
-   ```
+```
 3. Run it:
-   ```
+```
    ./patient_record_system
-   ```
+```
    (On Windows: `patient_record_system.exe`)
 
-  Sample Menu
+## Sample Menu
 ```
 --- Patient Record System ---
 1. Add Patient
@@ -40,16 +40,12 @@ A console-based Patient Record System written in C++ as a Programming Fundamenta
 0. Exit
 ```
 
-  Limitations
+## Limitations
 - Stores a maximum of 10 patients.
 - Data is not saved after the program closes.
 
-  Author
-  
-Ayesha Noor
-
-BS Software Engineering (1st Semester)
-
-Lahore College for Women University
-
-Submitted to: Miss Ayesha Rafiq
+## Author
+- **Name:** Ayesha Noor
+- **Program:** BS Software Engineering (1st Semester)
+- **University:** Lahore College for Women University
+- **Submitted to:** Miss Ayesha Rafiq
